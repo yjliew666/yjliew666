@@ -33,8 +33,8 @@
 
 ## 🔭 Currently
 - Building small tools and experiments to learn sustainable and maintainable coding practices.
-- 🩵 **Well-Bot** — Emotion-aware mental wellness system built on Raspberry Pi 4.  
-- 🌿 **AirSense Fusion** — AI-powered air quality monitoring integrating multiple chemical sensors (PM2.5, VOC, CO) for health prediction.
+- **Well-Bot** — Emotion-aware mental wellness system built on Raspberry Pi 4.  
+- **AirSense Fusion** — AI-powered air quality monitoring integrating multiple chemical sensors (PM2.5, VOC, CO) for health prediction.
 
 ## 🌱 I’m learning
 - Modern software maintenance techniques (refactoring, technical debt management).  
