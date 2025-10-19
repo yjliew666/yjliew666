@@ -8,10 +8,11 @@
   <h1>Hi 👋, I'm YJ Liew</h1>
   <p><strong>Software Engineering student • Universiti Malaya</strong></p>
 
-  <!-- Decorative line -->
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=20&pause=1200&color=2B93D6&vCenter=true&width=680&lines=I+build+and+maintain+cool+software+systems.;Learning+modern+maintenance+%26+engineering+practices.;Open+to+collaboration+%26+research" alt="typing"/>
-  </p>
+    <!-- Decorative line -->
+ <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=20&pause=1200&color=2B93D6&vCenter=true&width=680&lines=Software+Engineering+Student+at+Universiti+Malaya.;Building+emotion-aware+and+human-centered+AI+systems.;Exploring+IoT%2C+FastAPI%2C+and+Raspberry+Pi+projects. alt="typing"/>
+  </div>
+
 
   <!-- Quick badges -->
   <p>
